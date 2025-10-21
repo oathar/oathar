@@ -56,6 +56,8 @@
 
 ###
 
+[![An image of @iathar's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/iathar)](https://holopin.io/@iathar)
+
 <div align="center">
   <img height="134" src="https://media2.giphy.com/media/xjZtu4qi1biIo/200.webp?cid=ecf05e47fx05bjkr9acfnsnlkfy18qx1rhxjq2x3j0f72x2g&ep=v1_gifs_search&rid=200.webp&ct=g"  />
 </div>
