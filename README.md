@@ -23,20 +23,28 @@
 [![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,java,typescript,py,anaconda,vite,react,nextjs,npm,nodejs,express,mongodb,postgres,aws,docker,supabase,firebase,postman,github,git,netlify,vercel,markdown,figma,vscode,powershell,wordpress)](https://skillicons.dev)
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=oathar&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=dark&hide_border=true&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=oathar&locale=en&mode=daily&theme=dark&hide_border=true&order=3" height="150" alt="streak graph"  />
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=oathar&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=dark&hide_border=true&order=2" height="170" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=oathar&locale=en&mode=daily&theme=dark&hide_border=true&order=3" height="170" alt="streak graph"  />
 </div>
 
 ###
+
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=oathar&theme=radical)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=oathar&theme=radical)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=oathar&theme=radical)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=oathar&theme=radical)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=oathar&theme=radical&utcOffset=5.3)
+<br>
+
+ ![My GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=oathar&theme=dracula&custom_title=Athar's%20Contribution%20Graph)  
+
+
 
 
 <div align="center">
   <img height="134" src="https://media2.giphy.com/media/xjZtu4qi1biIo/200.webp?cid=ecf05e47fx05bjkr9acfnsnlkfy18qx1rhxjq2x3j0f72x2g&ep=v1_gifs_search&rid=200.webp&ct=g"  />
 </div>
 
-###
-
 <h6 align="center">Thanks for Visiting</h6>
-
-###
