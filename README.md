@@ -35,16 +35,7 @@
 ###
 
 <div align="center">
-  <img height="50" src="https://i.gifer.com/origin/f5/f5baef4b6b6677020ab8d091ef78a3bc_w200.webp"  />
-      <img height="60" src="https://i.gifer.com/origin/f5/f5baef4b6b6677020ab8d091ef78a3bc_w200.webp"  />
-      <img height="70" src="https://i.gifer.com/origin/f5/f5baef4b6b6677020ab8d091ef78a3bc_w200.webp"  />
-      <img height="80" src="https://i.gifer.com/origin/f5/f5baef4b6b6677020ab8d091ef78a3bc_w200.webp"  />
-  <img height="130" src="https://media2.giphy.com/media/xjZtu4qi1biIo/200.webp?cid=ecf05e47fx05bjkr9acfnsnlkfy18qx1rhxjq2x3j0f72x2g&ep=v1_gifs_search&rid=200.webp&ct=g"  />
-      <img height="80" src="https://i.gifer.com/origin/f5/f5baef4b6b6677020ab8d091ef78a3bc_w200.webp"  />
-      <img height="70" src="https://i.gifer.com/origin/f5/f5baef4b6b6677020ab8d091ef78a3bc_w200.webp"  />
-      <img height="60" src="https://i.gifer.com/origin/f5/f5baef4b6b6677020ab8d091ef78a3bc_w200.webp"  />
-      <img height="50" src="https://i.gifer.com/origin/f5/f5baef4b6b6677020ab8d091ef78a3bc_w200.webp"  />
- 
+     <img height="130" src="https://media2.giphy.com/media/xjZtu4qi1biIo/200.webp?cid=ecf05e47fx05bjkr9acfnsnlkfy18qx1rhxjq2x3j0f72x2g&ep=v1_gifs_search&rid=200.webp&ct=g"  />
 </div>
 
 <h6 align="center">Thanks for Visiting</h6>
