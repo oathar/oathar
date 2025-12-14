@@ -1,6 +1,5 @@
-<div align="left">
-<a href="https://gitroll.io/profile/ublGhUvCuted0vq7VF3YdoFXVUf23" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/ublGhUvCuted0vq7VF3YdoFXVUf23?theme=tokyoNight" height="350" alt="GitRoll Profile Badge"/></a>
-</div>
+<img width="400" height="550" alt="image" src="https://github.com/user-attachments/assets/34235f89-c6c5-4674-bd7c-8577b86285d8" />
+
 
 ###
 
