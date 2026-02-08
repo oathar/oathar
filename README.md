@@ -1,11 +1,12 @@
 ###
-<div align="right">
+<div align="left">
    <img src="https://visitor-badge.laobi.icu/badge?page_id=oathar.oathar&left_color=grey&left_text=%F0%9F%91%81%EF%B8%8F" height="25"/>
 </div>
 
-[[Portfolio](https://www.oathar.dev/)]
-[[LinkedIn](https://www.linkedin.com/in/athar-ramzan/)]
+
 [[Discord](http://discordapp.com/users/athar2006)]
+[[LinkedIn](https://www.linkedin.com/in/athar-ramzan/)]
+[[Portfolio](https://www.oathar.dev/)]
 
 
   
