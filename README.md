@@ -1,10 +1,15 @@
-###
+
+ Peace be upon you (
+السلام عليكم) 
+
+
+<br>
 <div align="left">
    <img src="https://visitor-badge.laobi.icu/badge?page_id=oathar.oathar&left_color=grey&left_text=%F0%9F%91%81%EF%B8%8F" height="25"/>
 </div>
 
 
-[[Discord](http://discordapp.com/users/athar2006)]
+[[Discord](https://discordapp.com/users/1107977896120823900)]
 [[LinkedIn](https://www.linkedin.com/in/athar-ramzan/)]
 [[Portfolio](https://www.oathar.dev/)]
 
